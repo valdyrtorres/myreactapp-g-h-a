@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React with Valdir Torres
+          Learn React with Valdir Torres B
         </a>
       </header>
     </div>
